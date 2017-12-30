@@ -17,23 +17,26 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: SQL Injection (SQLi)
+<img src='SQLI.gif' title='SQLi Walkthrough' width='' alt='Video Walkthrough' />
 
 Vulnerability #2: Session Hijacking/Fixation
+<img src='SessionHijacking.gif' title='Session Highjacking Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Green
 
 Vulnerability #1: Username Enumeration
+<img src='UsernameEnumw8.gif' title='Username Enumeration Walkthrough' width='' alt='Video Walkthrough' />
 
 Vulnerability #2: Cross-Site Scripting (XSS)
-
+<img src='XSSw8.gif' title='Cross Site Scripting Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Red
 
 Vulnerability #1:  Cross-Site Request Forgery (CSRF)
-
+<img src='CSRFw8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 Vulnerability #2:Insecure Direct Object Reference (IDOR)
-
+<img src='IDORw8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
